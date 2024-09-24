@@ -1,4 +1,4 @@
-(https://github.com/itsmeCALVES/itsmeCALVES/blob/output/github-contribution-grid-snake.svg)
+![CALVES](https://github.com/itsmeCALVES/itsmeCALVES/blob/output/github-contribution-grid-snake.svg)
 
 <p align = "left">
 
