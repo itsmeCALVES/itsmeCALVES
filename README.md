@@ -3,7 +3,7 @@
 Sou um desenvolvedor sênior especializado em **ServiceNow**, com mais de 7 anos de experiência na criação de soluções personalizadas e integrações na plataforma ServiceNow. Tenho experiência em módulos como **ITSM**, **IRM**, **SPM** e **CSM**, além de automações e desenvolvimento de APIs.
 
 ## 🛠 Habilidades Técnicas
-- **Linguagens:** JavaScript, GlideScript, HTML, CSS
+- **Linguagens:** JavaScript
 - **Plataformas:** ServiceNow (ITSM, IRM, Flow Designer, UI Builder, IntegrationHub)
 - **Ferramentas:** Git, Postman, Figma
 - **Certificações:** Scrum Foundation Professional Certificate, Lean Six Sigma
@@ -18,7 +18,7 @@ Aqui estão alguns projetos importantes que mostram minha experiência com JavaS
 - **[Widget UI Builder](https://github.com/itsmeCALVES/ServiceNow-UI-Builder)** - Desenvolvimento de um widget customizado no **UI Builder** do ServiceNow para criar dashboards interativos e intuitivos.
 
 ## 📈 GitHub Stats
-Aqui você pode ver minhas contribuições em projetos de JavaScript e ServiceNow:
+Aqui você pode ver minhas contribuições em projetos de JavaScript/ServiceNow:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmeCALVES&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
