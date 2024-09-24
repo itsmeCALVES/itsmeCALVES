@@ -28,7 +28,7 @@ Aqui você pode ver minhas contribuições em projetos de JavaScript/ServiceNow:
 Uma visão geral das linguagens que utilizo em meus projetos:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeCALVES&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeCALVES&layout=compact&theme=radical&hide_border=true&token=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" alt="Linguagens Mais Usadas">
 </p>
 
 ## 🐍 Contribuições Recentes
