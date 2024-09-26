@@ -34,6 +34,7 @@ Uma visão geral das linguagens que utilizo em meus projetos:
 ## 🐍 Contribuições Recentes
 Veja minha atividade recente de contribuições no GitHub:
 
+
 ![Snake animation](https://github.com/itsmeCALVES/itsmeCALVES/blob/output/github-contribution-grid-snake.svg)
 
 
