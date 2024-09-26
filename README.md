@@ -39,6 +39,7 @@ Veja minha atividade recente de contribuições no GitHub:
 
 
 
+
 ## 📫 Entre em contato
 - [LinkedIn](https://www.linkedin.com/in/cesaralessandroalves)
 - Email: c.ale_sandro@live.com
