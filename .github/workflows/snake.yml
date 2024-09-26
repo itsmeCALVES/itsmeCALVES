@@ -12,25 +12,24 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
 
-      # Garante que o diretório dist exista antes de gerar o Snake Game
-      - name: Ensure dist directory exists
-        run: mkdir -p dist
+      - name: Ensure output path exists
+        run: mkdir -p dist  # Garantir que o diretório dist exista
 
       - name: Generate Snake Game from commits
-        uses: Platane/snk@v2
+        uses: Platane/snk@v1  # Tente usar a versão v1
         with:
           github_user_name: itsmeCALVES  # Substitua pelo seu nome de usuário
-          svg_out_path: dist/snake.svg
+          svg_out_path: snake.svg  # Caminho simplificado
 
       - name: Upload artifact for GitHub Pages
-        uses: actions/upload-artifact@v3  # Versão mais recente
+        uses: actions/upload-artifact@v3
         with:
           name: snake-svg
-          path: dist/snake.svg
+          path: snake.svg  # Usar o novo caminho simplificado
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: .
           destination_dir: snake-game
