@@ -3,20 +3,33 @@ name: Generate Snake Game
 on:
   schedule:
     - cron: "0 0 * * *"  # Executa uma vez por dia
-  workflow_dispatch:
+  workflow_dispatch:  # Permite a execução manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Etapa para fazer o checkout do código
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+
+      # Etapa para criar o diretório dist (se não existir)
+      - name: Criar diretório dist (se não existir)
+        run: mkdir -p dist
+
+      # Etapa para gerar o Snake Game a partir dos commits
+      - name: Generate Snake Game from commits
+        uses: Platane/snk@master
         with:
-          github_user_name: itsmeCALVES
+          github_user_name: itsmeCALVES  # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+
+      # Etapa para empurrar o Snake Game para o branch do GitHub Pages
+      - name: Push Snake Game to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
+
+    # Etapa para configurar o email e o nome do usuário Git (se necessário)
       - run: git config --global user.email "c.ale_sandro@live.com"
       - run: git config --global user.name "itsmeCALVES"
