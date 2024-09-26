@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     - cron: "0 0 * * *"  # Executa uma vez por dia
-  workflow_dispatch:  # Permite a execução manual
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: itsmeCALVES  # Substitua pelo seu nome de usuário
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg   # Corrigido o parâmetro svg_out_path
 
       # Etapa para empurrar o Snake Game para o branch do GitHub Pages
       - name: Push Snake Game to GitHub Pages
@@ -29,7 +29,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-
-    # Etapa para configurar o email e o nome do usuário Git (se necessário)
-      - run: git config --global user.email "c.ale_sandro@live.com"
-      - run: git config --global user.name "itsmeCALVES"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Adiciona o token para autenticação
