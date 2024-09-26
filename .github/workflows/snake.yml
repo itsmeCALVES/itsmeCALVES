@@ -1,0 +1,22 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa uma vez por dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: itsmeCALVES
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+      - run: git config --global user.email "c.ale_sandro@live.com"
+      - run: git config --global user.name "itsmeCALVES"
