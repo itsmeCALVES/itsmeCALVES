@@ -12,6 +12,10 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
 
+      # Garante que o diretório dist exista antes de gerar o Snake Game
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
       - name: Generate Snake Game from commits
         uses: Platane/snk@v2
         with:
