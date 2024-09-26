@@ -36,6 +36,7 @@ Veja minha atividade recente de contribuições no GitHub:
 
 ![Snake animation](https://github.com/itsmeCALVES/itsmeCALVES/blob/output/github-contribution-grid-snake.svg)
 
+
 ## 📫 Entre em contato
 - [LinkedIn](https://www.linkedin.com/in/cesaralessandroalves)
 - Email: c.ale_sandro@live.com
