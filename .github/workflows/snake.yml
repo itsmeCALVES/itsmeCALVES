@@ -12,11 +12,14 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v3
 
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
       - name: Generate Snake Game from commits
-        uses: Platane/snk@v2
+        uses: Platane/snk@v1  # Alternar para v1 para mais estabilidade
         with:
-          github_user_name: itsmeCALVES  # Certifique-se que o nome de usuário esteja correto
-          svg_out_path: dist/snake.svg  # O caminho do SVG gerado
+          github_user_name: itsmeCALVES  # Certifique-se que o nome está correto
+          svg_out_path: dist/snake.svg  # O caminho de saída
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-artifact@v3
