@@ -31,11 +31,12 @@ Uma visão geral das linguagens que utilizo em meus projetos:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeCALVES&layout=compact&theme=radical&hide_border=true&token=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" alt="Linguagens Mais Usadas">
 </p>
 
-## 🐍 Contribuições Recentes
-Veja minha atividade recente de contribuições no GitHub:
 
+# Meu Projeto
+Profissional com 7 anos de experiencia em ServiceNow.
 
-![snake gif](https://github.com/itsmeCALVES/itsmeCALVES/blob/output/github-contribution-grid-snake.svg)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Developer-blue?logo=servicenow&logoColor=white)
+
 
 
 
