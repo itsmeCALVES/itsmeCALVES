@@ -8,6 +8,13 @@ Sou um desenvolvedor sênior especializado em **ServiceNow**, com mais de 7 anos
 - **Ferramentas:** Git, Postman, Figma
 - **Certificações:** Scrum Foundation Professional Certificate, Lean Six Sigma
 
+## 🛠 Habilidades Técnicas
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-green?logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-IRM-green?logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-SPM-green?logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-CSM-green?logo=servicenow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=black)
+
 ## 🚀 Projetos de Destaque
 Aqui estão alguns projetos importantes que mostram minha experiência com JavaScript e ServiceNow:
 
