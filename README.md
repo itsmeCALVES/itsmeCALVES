@@ -3,17 +3,13 @@
 Sou um desenvolvedor sênior especializado em **ServiceNow**, com mais de 7 anos de experiência na criação de soluções personalizadas e integrações na plataforma ServiceNow. Tenho experiência em módulos como **ITSM**, **IRM**, **SPM** e **CSM**, além de automações e desenvolvimento de APIs.
 
 ## 🛠 Habilidades Técnicas
-- **Linguagens:** JavaScript
-- **Plataformas:** ServiceNow (ITSM, IRM, Flow Designer, UI Builder, IntegrationHub)
-- **Ferramentas:** Git, Postman, Figma
-- **Certificações:** Scrum Foundation Professional Certificate, Lean Six Sigma
-
-## 🛠 Habilidades Técnicas
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-green?logo=servicenow&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-IRM-green?logo=servicenow&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-SPM-green?logo=servicenow&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-CSM-green?logo=servicenow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=black)
+![Certified](https://img.shields.io/badge/Certified-SFPC-blue?logo=scrum&logoColor=white)
+![Certified](https://img.shields.io/badge/Certified-Lean-blue?logo=lean&logoColor=white)
 
 ## 🚀 Projetos de Destaque
 Aqui estão alguns projetos importantes que mostram minha experiência com JavaScript e ServiceNow:
