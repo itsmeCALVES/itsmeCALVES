@@ -1,6 +1,6 @@
 # Olá, eu sou César Alves 👋
 
-Sou um desenvolvedor sênior especializado em **ServiceNow**, com mais de 7 anos de experiência na criação de soluções personalizadas e integrações na plataforma ServiceNow. Tenho experiência em módulos como **ITSM**, **IRM**, **SPM** e **CSM**, além de automações e desenvolvimento de APIs.
+Sou um desenvolvedor sênior especializado em **ServiceNow**, com mais de 7 anos de experiência na criação de soluções personalizadas e integrações na plataforma ServiceNow. Tenho experiência em módulos como **ITSM**, **IRM**, **SPM** e **CSM**, além de automações e desenvolvimento de APIs. Sou Product Owner certificado e atualmente desempenho essa atribuição em projetos envolvendo ServiceNow. Possuo graduação em Análise e Desenvolvimento de Sistemas, Pós Graduação em UX Design, Pós Graduação em Product Management e atualmente estou cursando MBA em Transformação Digital e Liderança. 
 
 ## 🛠 Habilidades Técnicas
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-green?logo=servicenow&logoColor=white)
