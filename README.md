@@ -8,6 +8,7 @@ Sou um desenvolvedor sênior especializado em **ServiceNow**, com mais de 7 anos
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-SPM-green?logo=servicenow&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-CSM-green?logo=servicenow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=black)
+![Certified](https://img.shields.io/badge/Certified-SPOPC-blue?logo=scrum&logoColor=white)
 ![Certified](https://img.shields.io/badge/Certified-SFPC-blue?logo=scrum&logoColor=white)
 ![Certified](https://img.shields.io/badge/Certified-Lean-blue?logo=lean&logoColor=white)
 
