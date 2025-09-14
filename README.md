@@ -63,9 +63,9 @@ Tenho histórico de liderança técnica de squads, gestão de backlog e entrega 
 ---
 
 ## 🎓 Educação
-- 🎓 **Graduação** – Análise e Desenvolvimento de Sistemas – UTP (2016)  
-- 🎓 **Pós-graduação** – UX Design – CIDI (2021)  
-- 🎓 **Pós-graduação** – Gestão de Produtos – BBI Chicago (2024)  
+- 🎓 **Graduação** – Análise e Desenvolvimento de Sistemas – Universidade Tuiuti do Paraná (2016)  
+- 🎓 **Pós-graduação** – UX Design – Instituto de Desenho Instrucional de Curitiba (2021)  
+- 🎓 **Pós-graduação** – Gestão de Produtos – Business Behavior Institute (2024)  
 - 🎓 **MBA** – Transformação Digital & Liderança (IA) – Escola Conquer (2025)  
 
 ---
@@ -83,7 +83,7 @@ Tenho histórico de liderança técnica de squads, gestão de backlog e entrega 
 
 ## 🌍 Idiomas
 - 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: B2 (EF SET Certificate – [Verificar](https://cert.efset.org/X2CzfK))  
+- 🇺🇸 Inglês: C1 (EF SET Certificate – [Verificar](https://cert.efset.org/en/X2CzfK))  
 
 ---
 
